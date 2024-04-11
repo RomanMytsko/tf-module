@@ -1,0 +1,3 @@
+[submodule "modules/submodule1"]
+	path = modules/submodule1
+	url = https://github.com/RomanMytsko/tf-module.git
